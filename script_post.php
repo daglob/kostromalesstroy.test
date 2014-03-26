@@ -1,0 +1,1 @@
+﻿<?php mail("vadim_okunev@mail.ru","Заявка с сайта","Имя: ".$_POST["username"]."\nТелефон: ".$_POST["phone"]."\nПочта: ".$_POST["email"]."\nТекст: ".$_POST["msgtext"],"MIME-Version: 1.0\r\nContent-type: text/plain; charset=windows-1251"); header("Location: ".$_SERVER['HTTP_REFERER']);?>

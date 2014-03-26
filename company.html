@@ -1,0 +1,129 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="windows-1251">
+<script type="text/javascript" src="jquery-1.4.4.min.js"></script>
+<script type='text/javascript' src="fleXcroll_SampleStyles/script/flexcroll.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	fleXenv.fleXcrollMain('mycustomscroll');
+	$('.layer1').height($(document).height()-60);
+	setInterval(function(){
+		$('.layer1').height($(document).height()-60);
+	},1);
+});
+</script>
+<title>Архитектурно-строительная мастерская Окуневых</title>
+<link href="fleXcroll_SampleStyles/recommended_styles/fatcuddly-vertical_only/flexcrollstyles.css" rel="stylesheet" type="text/css" />
+<style type="text/css">
+html, body {
+	margin:0px;
+	background-color:#000;
+}
+.layer1 {
+	width:100%;
+	min-width:850px;
+	background:url(bg3.jpg) no-repeat;
+	background-size:100%;
+}
+.logo {
+	position:absolute;
+	left:30px;
+	top:15px;
+	width:224px;
+	height:34px;
+	background:url(Logo.png);
+}
+.menu {
+	position:absolute;
+	right:0px;
+	top:0px;
+	width:100%;
+	height:50px;
+	padding-top:20px;
+	background:#F3F3F3;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#000;
+	font-size:16px;
+}
+.menu>div.notlogo {
+	margin-left:41%;
+}
+.menu a {
+	color:#000;
+}
+.menu span {
+	margin:15px 5px 0px;
+}
+.parent {
+	position:absolute;
+	top:240px;
+	left:41%;
+	width:510px;
+	height:400px;
+	padding:30px;
+	background:url(Px.png);
+	color:#FFF;
+}
+.flexscroll {
+	font-family:Arial, Helvetica, sans-serif;
+	position:relative;
+	width:520px;
+	height:400px;
+	color:#FFF;
+	font-size:14px;
+}
+.header {
+	font-size:28px;
+	margin-bottom:10px;
+}
+.ololo {
+	text-align:right;
+	font-size:56px;
+	font-family:Arial, Helvetica, sans-serif;
+	position:absolute;
+	right:61%;
+	top:100px;
+	color:#000;
+	font-weight:600;
+	line-height:1em;
+}
+.footer {
+	width:100%;
+	background-color:#000;
+	color:#fff;
+	padding:10px 0px;
+}
+.footer a {
+	color:#fff;
+}
+.footer>.cube {
+	float:left;
+	width:34px;
+	height:48px;
+	margin:0px 10px;
+	background:url(cube.png);
+}
+</style>
+</head>
+<body>
+<div class="parent"><div id='mycustomscroll' class='flexscroll'>
+    <div class="header">О компании</div>Архитектурно-строительная мастерская Окуневых на рынке уже более десяти лет. За это время география строительства расширилась. Мы работали и работаем в Подмосковье, на Валдае, строили деревянный дом-усадьбу в Днепропетровске, в Воронеже, в Ярославской области и конечно в Костроме и Костромской области.<br><br>Строим  из профилированного бревна, из оцилиндрованного бревна и  рубленые дома. Сейчас компания отдает предпочтения рубленым экслюзивным домам из толстого бревна диаметром от 30 до 45 см., в самобытном русском стиле.<br><br> Визитной карточкой компании является административно -развлекательный комплекс терем «СНЕГУРОЧКА» в городе Костроме  ул. Лагерная  38/13. Работа велась от планировки участка, разработки проекта, проектно-сметной документации до строительства терема и до ландшафтного дизайна с малыми архитектурными формами.<br><br>Мы строим дома-усадьбы с хозяйственными постройками и гостевыми домами, строим деревянные гостиницы, лесные заимки, дачные дома, загородные дома, дома-бани с бассейнами, бани, всего не перечислить, но что бы мы не строили, мы всегда учитываем желание заказчика. Обговариваем все стороны строительства от технических до формирования мира дома, в котором отражаются вкусы, привычки ,  характер и жизненные устремления заказчика..</div></div>
+<div class="ololo">О компании</div>
+<div class="layer1">
+	<div class="layer2">
+		<div class="menu">
+		<a href="index.html"><div class="logo"></div></a>
+			<div class="notlogo"><span><a href="index.html">Главная</a></span>
+			<span><a href="galery.html">Галерея</a></span>
+			<span>О компании</span>
+			<span><a href="doma_material.html">Рубленые дома</a></span>
+			<span><a href="contacty.html">Контактная информация</a></span></div>
+		</div>
+	</div>
+</div>
+<div class="footer">
+	<div class="cube"></div>Сайт сделан в студии<br><a href="http://cubedesign.ru">Cube Design</a>
+</div>
+</body>
+</html>
