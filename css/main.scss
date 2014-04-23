@@ -1,0 +1,85 @@
+
+body {
+  height: 100%;
+  background: url(/bg2.jpg) no-repeat center top fixed;
+  -moz-background-size: cover; /* Firefox 3.6+ */
+  -webkit-background-size: cover; /* Safari 3.1+ и Chrome 4.0+ */
+  -o-background-size: cover; /* Opera 9.6+ */
+  background-size: cover; /* Современные браузеры */
+  font-family: Helvetica;
+  .bodycontainer {
+    .documentcontainer {
+      .header {
+        height: 70px;
+        background-color: #f3f3f3;
+        .mainmenu {
+
+          .navbar-brand {
+            padding-left: 28px;
+          }
+          ul {
+            li {
+              a {
+                line-height: 70px;
+                text-decoration: none;
+                color: #000000;
+                font-family: Arial, Helvetica, sans-serif;
+                font-size: 16px;
+                padding: 0 8px;
+              }
+              &.active {
+                //                background-color: #000;
+                a {
+                  //                  color: #f3f3f3;
+                  text-decoration: underline;
+                }
+              }
+            }
+          }
+        }
+        .informblock {
+          height: 70px;
+          margin-right: 60px;
+          .phone {
+            height: 35px;
+            display: block;
+            clear: both;
+            a {
+              text-align: center;
+              padding: 0 10px;
+              line-height: 35px;
+              text-decoration: none;
+              font-weight: normal;
+              color: #000000;
+              font-size: 22px;
+              font-family: 'Trebuchet MS', Tahoma;
+            }
+          }
+        }
+      }
+      .content {
+        margin: 0 auto;
+        width: 960px;
+        min-height: 100%;
+        font-size: 16px;
+        font-family: Helvetica;
+      }
+      .footer {
+        background-color: #000000;
+        bottom: 0;
+        height: 60px;
+        position: absolute;
+        width: 100%;
+      }
+    }
+  }
+}
+
+/* DEBUG CONSTRUCT */
+pre {
+  background-color: lightgrey;
+  color: #000000;
+  padding: 20px;
+  border-radius: 15px;
+  border: 1px solid #000000;
+}

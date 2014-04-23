@@ -1,0 +1,46 @@
+/* line 3, D:/daglob/www/kostromalesstroy.test/css/index.scss */
+.content h1 {
+  font-size: 60px;
+  font-weight: bold;
+  color: #000000;
+  text-align: right;
+  line-height: 77px;
+  margin: 0;
+  padding: 0;
+  margin-top: 40px;
+}
+/* line 13, D:/daglob/www/kostromalesstroy.test/css/index.scss */
+.content .specialText {
+  text-align: right;
+}
+/* line 15, D:/daglob/www/kostromalesstroy.test/css/index.scss */
+.content .specialText > div {
+  background-image: url("/Px.png");
+  background-repeat: repeat;
+  background-position: center;
+  display: inline;
+  float: right;
+  margin-bottom: 2px;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 18px;
+  padding: 0 5px;
+  color: #ffffff;
+}
+/* line 29, D:/daglob/www/kostromalesstroy.test/css/index.scss */
+.content .descriptionBlock {
+  width: 100%;
+  padding: 20px 3px 20px 20px;
+  background-image: url("/Px.png");
+  background-repeat: repeat;
+  background-position: center;
+}
+/* line 36, D:/daglob/www/kostromalesstroy.test/css/index.scss */
+.content .descriptionBlock > .scrollbar {
+  max-height: 405px;
+}
+/* line 38, D:/daglob/www/kostromalesstroy.test/css/index.scss */
+.content .descriptionBlock > .scrollbar .textBlock {
+  padding: 0 20px 0 0;
+  color: #ffffff;
+}

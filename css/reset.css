@@ -1,0 +1,107 @@
+/* line 12, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+html, body, div, span, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+abbr, address, cite, code,
+del, dfn, em, img, ins, kbd, q, samp,
+small, strong, sub, sup, var,
+b, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+/* line 22, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+body {
+  line-height: 1;
+}
+
+/* line 27, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+/* line 31, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+nav ul {
+  list-style: none;
+}
+
+/* line 35, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+blockquote, q {
+  quotes: none;
+}
+
+/* line 40, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: none;
+}
+
+/* line 44, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+
+/* change colours to suit your needs */
+/* line 53, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none;
+}
+
+/* change colours to suit your needs */
+/* line 60, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* line 67, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+del {
+  text-decoration: line-through;
+}
+
+/* line 71, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+abbr[title], dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help;
+}
+
+/* line 76, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* change border colour to suit your needs */
+/* line 82, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #cccccc;
+  margin: 1em 0;
+  padding: 0;
+}
+
+/* line 91, D:/daglob/www/kostromalesstroy.test/css/reset.scss */
+input, select {
+  vertical-align: middle;
+}

@@ -1,0 +1,45 @@
+.content {
+
+  h1 {
+    font-size: 60px;
+    font-weight: bold;
+    color: #000000;
+    text-align: right;
+    line-height: 77px;
+    margin: 0;
+    padding: 0;
+    margin-top: 40px;
+  }
+  .specialText {
+    text-align: right;
+    & > div {
+      background-image: url("/Px.png");
+      background-repeat: repeat;
+      background-position: center;
+      display: inline;
+      float: right;
+      margin-bottom: 2px;
+      font-size: 16px;
+      font-weight: bold;
+      line-height: 18px;
+      padding: 0 5px;
+      color: #ffffff;
+    }
+  }
+  .descriptionBlock {
+    width: 100%;
+
+    padding: 20px 3px 20px 20px;
+    background-image: url("/Px.png");
+    background-repeat: repeat;
+    background-position: center;
+    & > .scrollbar {
+      max-height: 405px;
+      & .textBlock {
+        padding: 0 20px 0 0;
+        color: #ffffff;
+      }
+    }
+
+  }
+}

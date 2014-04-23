@@ -1,7 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cd53ef31-3759-496e-a666-f2e293779695" name="Default" comment="" />
+    <list default="true" id="cd53ef31-3759-496e-a666-f2e293779695" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/theme/Logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/7680f7aa3eeffffc6017f0a2dc4820f1c63244da/main.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/7680f7aa3eeffffc6017f0a2dc4820f1c63244da/reset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/404.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contacts.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/funcs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gallery.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/7680f7aa3eeffffc6017f0a2dc4820f1c63244da/index.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.1.0.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.scrollbar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/menu_content.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/portfolio.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/reset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/scrollbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.sass-cache/7680f7aa3eeffffc6017f0a2dc4820f1c63244da/scrollbar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/technologies.php" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\bunkovo.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\class\MySQL.php" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\company.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\contacty.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\doma_material.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\doma_proecty.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\doma_tehnology.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\contents.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\documentation\flexcroll-guide.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\documentation\flexcroll-programming.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\documentation\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\extra-notes.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\modules\news-ticker\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\modules\news-ticker\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\modules\news-ticker\flexnewsticker.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\modules\news-ticker\flexticker.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\modules\news-ticker\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fatcuddly-vertical_only-commented\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fatcuddly-vertical_only-commented\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fatcuddly-vertical_only-commented\scrollbar.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fatcuddly-vertical_only-commented\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fatcuddly-vertical_only-commented\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fatcuddly-vertical_only\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fatcuddly-vertical_only\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fatcuddly-vertical_only\scrollbar.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fatcuddly-vertical_only\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fatcuddly-vertical_only\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage-commented\basebarcaps_verticalbarbody.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage-commented\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage-commented\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage-commented\horizontalbarbody_cornerjog.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage-commented\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage-commented\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage\basebarcaps_verticalbarbody.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage\horizontalbarbody_cornerjog.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\fullimage\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\minimal\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\minimal\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\minimal\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\recommended_styles\minimal\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\script\flexcroll-uncompressed.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\script\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\always_display\basebarcaps_verticalbarbody.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\always_display\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\always_display\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\always_display\horizontalbarbody_cornerjog.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\always_display\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\always_display\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\external_scrollbar\basebarcaps_verticalbarbody.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\external_scrollbar\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\external_scrollbar\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\external_scrollbar\horizontalbarbody_cornerjog.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\external_scrollbar\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\external_scrollbar\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\fixedsize-transparent\bodybg.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\fixedsize-transparent\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\fixedsize-transparent\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\fixedsize-transparent\scrollbar.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\fixedsize-transparent\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\fixedsize-transparent\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\flexcroll-uncompressed.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\flexcrollie6styles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\ie6images\hscrollbasedex.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\ie6images\hscrollbasesin.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\ie6images\hscrollerdex.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\ie6images\hscrollersin.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\ie6images\vscrollbasebot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\ie6images\vscrollbasetop.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\ie6images\vscrollerbot.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\ie6images\vscrollertop.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\images\hscroller.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\images\scrollbaseback.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\images\scrollbases.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\images\scrolljog.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\images\vscroller.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\full_alpha\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\horizontal_liquid\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\horizontal_liquid\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\horizontal_liquid\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\horizontal_liquid\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\scrollbar_opposite\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\scrollbar_opposite\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\scrollbar_opposite\scrollbar.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\scrollbar_opposite\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\scrollbar_opposite\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_floats\basebarcaps_verticalbarbody.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_floats\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_floats\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_floats\horizontalbarbody_cornerjog.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_floats\mypicture.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_floats\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_floats\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_horizontal_stacks\basebarcaps_verticalbarbody.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_horizontal_stacks\flexcroll.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_horizontal_stacks\flexcrollstyles.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_horizontal_stacks\horizontalbarbody_cornerjog.png" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_horizontal_stacks\mypicture.jpg" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_horizontal_stacks\tutorsty.css" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\fleXcroll_SampleStyles\variations-howto's\using_horizontal_stacks\web.htm" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\galery.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\index.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\jquery-1.4.4.min.js" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\krasnoe-dr.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\krasnoe.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\malahovka.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\snegurochka.html" afterPath="" />
+      <change type="DELETED" beforePath="D:\daglob\www\kostromalesstroy.test\yandex_67bc468fb652d3e6.html" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Px.png" afterPath="$PROJECT_DIR$/Px.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/kostromalesstroy.test.iml" afterPath="$PROJECT_DIR$/.idea/kostromalesstroy.test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="kostromalesstroy.test.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,18 +179,111 @@
       <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="38" selection-start="563" selection-end="563" vertical-scroll-proportion="0.4663923" vertical-offset="0" max-vertical-offset="1188">
+            <state line="54" column="9" selection-start="2707" selection-end="2707" vertical-scroll-proportion="0.37311384" vertical-offset="646" max-vertical-offset="2021">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scrollbar.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/scrollbar.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="153" column="24" selection-start="3372" selection-end="3372" vertical-scroll-proportion="-10.0" vertical-offset="2341" max-vertical-offset="4639">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/reset.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2557">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="1" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2166">
               <folding>
-                <element signature="e#6#81#0" expanded="true" />
+                <marker date="1398287526376" expanded="true" signature="305:395" placeholder="{...}" />
+                <marker date="1398287526376" expanded="true" signature="1226:1334" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="funcs.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/funcs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="53" selection-start="0" selection-end="4199" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="2877">
+            <state line="38" column="24" selection-start="642" selection-end="643" vertical-scroll-proportion="-13.923077" vertical-offset="114" max-vertical-offset="1613">
+              <folding>
+                <element signature="n#checkInsertedUrl#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="30" selection-start="515" selection-end="515" vertical-scroll-proportion="-5.0" vertical-offset="34" max-vertical-offset="2115">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.scss" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/index.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="24" selection-start="464" selection-end="464" vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="1435">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="65" selection-start="1387" selection-end="1387" vertical-scroll-proportion="-17.0" vertical-offset="102" max-vertical-offset="1341">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap-theme.min.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="77" selection-start="247" selection-end="247" vertical-scroll-proportion="-2.9230769" vertical-offset="26" max-vertical-offset="6768">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.scrollbar.min.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/jquery.scrollbar.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="929">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="15" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1061">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="33" selection-start="146" selection-end="146" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1001">
               <folding />
             </state>
           </provider>
@@ -50,9 +296,33 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/css/reset.scss" />
+        <option value="$PROJECT_DIR$/app.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/menu_content.php" />
+        <option value="$PROJECT_DIR$/contacts.php" />
+        <option value="$PROJECT_DIR$/portfolio.php" />
+        <option value="$PROJECT_DIR$/gallery.php" />
+        <option value="$PROJECT_DIR$/technologies.php" />
+        <option value="$PROJECT_DIR$/css/scrollbar.scss" />
+        <option value="$PROJECT_DIR$/funcs.php" />
+        <option value="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/css/scrollbar.css" />
+        <option value="$PROJECT_DIR$/css/main.scss" />
+        <option value="$PROJECT_DIR$/css/index.scss" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -61,10 +331,10 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1616" />
+    <option name="width" value="1612" />
     <option name="height" value="886" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -90,7 +360,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -109,27 +378,31 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kostromalesstroy.test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="kostromalesstroy.test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="galery" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="web.server" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\daglob\www\kostromalesstroy.test" />
+      <recent name="D:\daglob\www\kostromalesstroy.test\css" />
+      <recent name="D:\daglob\www\kostromalesstroy.test\js" />
+      <recent name="D:\daglob\www\kostromalesstroy.test\class" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -142,7 +415,7 @@
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="438e0014-db44-49ac-8857-d05aceaedaf4" server_name="kostromalesstroy.ru">
       <method />
     </configuration>
     <list size="0" />
@@ -157,21 +430,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
-    <editor active="false" />
+    <frame x="-8" y="-8" width="1612" height="886" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33068782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25288832" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967825" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26447877" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20334621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -180,6 +454,28 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33068782" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32936507" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.26447877" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967825" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20334621" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -198,31 +494,338 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bg2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/malahovka.html">
+    <entry file="file://$PROJECT_DIR$/404.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.551532" vertical-offset="2550" max-vertical-offset="3727">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/menu_content.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="53" selection-start="0" selection-end="4199" vertical-scroll-proportion="-7.1923075" vertical-offset="0" max-vertical-offset="2877">
+        <state line="27" column="27" selection-start="479" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="81" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/technologies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="80" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="19" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="25" selection-start="1176" selection-end="1176" vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/theme/Logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="20" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="38" selection-start="563" selection-end="563" vertical-scroll-proportion="0.4663923" vertical-offset="0" max-vertical-offset="1188">
+        <state line="0" column="0" selection-start="0" selection-end="66" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="29" selection-start="804" selection-end="804" vertical-scroll-proportion="0.0" vertical-offset="493" max-vertical-offset="595">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="3" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="47" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0" vertical-offset="425" max-vertical-offset="1105">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="27" selection-start="479" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="527">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="81" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/technologies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="80" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="19" selection-start="388" selection-end="388" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="27" selection-start="178" selection-end="178" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="1598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/theme/Logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="20" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="255">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/reset.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="12" selection-start="851" selection-end="851" vertical-scroll-proportion="-5.8039217" vertical-offset="452" max-vertical-offset="2251" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/theme/Logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="3" selection-start="80" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="26" selection-start="144" selection-end="144" vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="272">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="81" selection-end="81" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="136">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/technologies.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="2" selection-start="117" selection-end="117" vertical-scroll-proportion="-8.5" vertical-offset="0" max-vertical-offset="952">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/menu_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="28" selection-start="370" selection-end="370" vertical-scroll-proportion="-11.115385" vertical-offset="0" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="19" selection-start="137" selection-end="137" vertical-scroll-proportion="-0.65384614" vertical-offset="221" max-vertical-offset="950">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="12" selection-start="152" selection-end="152" vertical-scroll-proportion="0.18655692" vertical-offset="0" max-vertical-offset="933">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cube.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/line.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bg_galery.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery.scrollbar.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="929">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2557">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="15" selection-start="438" selection-end="438" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1061">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/bootstrap-theme.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="77" selection-start="247" selection-end="247" vertical-scroll-proportion="-2.9230769" vertical-offset="26" max-vertical-offset="6768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="1" selection-start="230" selection-end="230" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="2166">
           <folding>
-            <element signature="e#6#81#0" expanded="true" />
+            <marker date="1398287526376" expanded="true" signature="305:395" placeholder="{...}" />
+            <marker date="1398287526376" expanded="true" signature="1226:1334" placeholder="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="65" selection-start="1387" selection-end="1387" vertical-scroll-proportion="-17.0" vertical-offset="102" max-vertical-offset="1341">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="24" selection-start="642" selection-end="643" vertical-scroll-proportion="-13.923077" vertical-offset="114" max-vertical-offset="1613">
+          <folding>
+            <element signature="n#checkInsertedUrl#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="33" selection-start="146" selection-end="146" vertical-scroll-proportion="-3.2692308" vertical-offset="0" max-vertical-offset="1001">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Px.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/scrollbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="153" column="24" selection-start="3372" selection-end="3372" vertical-scroll-proportion="-10.0" vertical-offset="2341" max-vertical-offset="4639">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="30" selection-start="515" selection-end="515" vertical-scroll-proportion="-5.0" vertical-offset="34" max-vertical-offset="2115">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="24" selection-start="464" selection-end="464" vertical-scroll-proportion="-7.3333335" vertical-offset="0" max-vertical-offset="1435">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="9" selection-start="2707" selection-end="2707" vertical-scroll-proportion="0.37311384" vertical-offset="646" max-vertical-offset="2021">
+          <folding />
         </state>
       </provider>
     </entry>

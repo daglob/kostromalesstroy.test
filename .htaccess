@@ -1,0 +1,20 @@
+RewriteEngine On
+RewriteBase /
+AddDefaultCharset windows-1251
+
+RewriteCond %{HTTP_HOST} ^beautyformula\.ru$ [NC]
+RewriteRule ^(.*)$ http://www.beautyformula.ru/$1 [L,R=301]
+
+php_flag register_globals on
+php_flag date.timezone "Europe/Moscow"
+
+DirectoryIndex index.php
+ErrorDocument 404 /404.php
+
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)/?$ index.php?inserturl=$1 [QSA,L]
+
+
+# RewriteRule ^qrcode$ http://www.beautyformula.ru/ [R=301,L]
