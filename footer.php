@@ -8,11 +8,20 @@
 ?>
 </div>
 <div class="footer">
-    <img src="cube.png" alt="CUBE">
+
+    <div class="col-lg-5">
+        <div class="designGr">
+            <img src="cube.png" alt="CUBE">
+            Сайт сделан в студии
+            <a href="http://cubedesign.ru/">Cube Design</a>
+        </div>
+    </div>
 </div>
 </div>
 <script>
     $(function () {
+        $(".content").scrollbar();
+
         $(".mainmenu ul")
             .addClass("nav")
             .addClass("navbar-nav");
