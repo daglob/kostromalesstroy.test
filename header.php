@@ -18,10 +18,11 @@ require_once "app.php";
     <link rel="stylesheet" href="/css/reset.css" type="text/css"/>
     <link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css"/>
     <link rel="stylesheet" href="/css/bootstrap-theme.min.css" type="text/css"/>
-        <link rel="stylesheet" href="/css/main.css" type="text/css"/>
+    <link rel="stylesheet" href="/css/main.css" type="text/css"/>
     <link rel="stylesheet" href="/css/index.css" type="text/css"/>
     <link rel="stylesheet" href="/css/scrollbar.css" type="text/css"/>
     <script type="text/javascript" src="/js/jquery-2.1.0.js"></script>
+    <script type="text/javascript" src="/js/respond.min.js"></script>
     <script type="text/javascript" src="/js/jquery.scrollbar.min.js"></script>
 </head>
 <body>

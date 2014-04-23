@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="new.kostromalesstroy.ru">
+  <component name="PublishConfigData" serverName="new.kostromalesstroy.ru" uploadOnCheckin="503344e1-1794-402c-bb58-7b6d74b5a997">
     <serverData>
       <paths name="kostromalesstroy.ru">
         <serverdata>
@@ -17,6 +17,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="new.kostromalesstroy.ru" />
   </component>
 </project>
 
