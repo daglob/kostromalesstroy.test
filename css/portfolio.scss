@@ -1,0 +1,86 @@
+body {
+  height: 100%;
+  background: url(/bg_galery.jpg) repeat center top fixed;
+  .content {
+    .portfolio {
+      margin: 20px 0;
+      padding: 20px;
+      min-height: 100%;
+      background-image: url("/Px.png");
+      background-repeat: repeat;
+      background-position: center;
+      .left-block-menu {
+        background-image: url("/Px.png");
+        & > ul {
+          margin: 0;
+          padding: 0;
+          list-style: none;
+          & > li {
+            & > a {
+              font-size: 20px;
+              color: #ffffff;
+              text-decoration: underline;
+            }
+          }
+        }
+      }
+      .portfolioMenu {
+        padding: 10px;
+      }
+      .portfolioBlockCategory {
+        .thumbnail {
+          background: none;
+          border: none;
+          text-decoration: none;
+          img {
+            max-height: 112px;
+            max-width: 150px;
+          }
+          .categoryName {
+            margin-top: 15px;
+            display: block;
+            clear: both;
+            color: #ffffff;
+            text-decoration: none;
+            font-size: 20px;
+            text-align: center;
+            .badge {
+              vertical-align: middle;
+              margin-left: 10px;
+            }
+          }
+          .within-the-section {
+            display: block;
+            clear: both;
+            color: #282828;
+            text-decoration: none;
+            font-size: 14px;
+            font-style: italic;
+            text-align: right;
+          }
+        }
+      }
+      .portfolioBlock {
+        .portfolioInnerBlock {
+          padding: 0 20px 0 0;
+          .thumbnail {
+            background: none;
+            border: none;
+            text-decoration: none;
+            .categoryName {
+              display: block;
+              clear: both;
+              color: #ffffff;
+              text-decoration: none;
+              font-size: 20px;
+              text-align: center;
+              .badge {
+                vertical-align: middle;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

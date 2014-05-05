@@ -1,0 +1,93 @@
+/* line 1, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body {
+  height: 100%;
+  background: url(/bg_galery.jpg) repeat center top fixed;
+}
+/* line 5, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio {
+  margin: 20px 0;
+  padding: 20px;
+  min-height: 100%;
+  background-image: url("/Px.png");
+  background-repeat: repeat;
+  background-position: center;
+}
+/* line 12, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .left-block-menu {
+  background-image: url("/Px.png");
+}
+/* line 14, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .left-block-menu > ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+/* line 19, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .left-block-menu > ul > li > a {
+  font-size: 20px;
+  color: #ffffff;
+  text-decoration: underline;
+}
+/* line 27, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .portfolioMenu {
+  padding: 10px;
+}
+/* line 31, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .portfolioBlockCategory .thumbnail {
+  background: none;
+  border: none;
+  text-decoration: none;
+}
+/* line 35, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .portfolioBlockCategory .thumbnail img {
+  max-height: 112px;
+  max-width: 150px;
+}
+/* line 39, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .portfolioBlockCategory .thumbnail .categoryName {
+  margin-top: 15px;
+  display: block;
+  clear: both;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+}
+/* line 47, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .portfolioBlockCategory .thumbnail .categoryName .badge {
+  vertical-align: middle;
+  margin-left: 10px;
+}
+/* line 52, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .portfolioBlockCategory .thumbnail .within-the-section {
+  display: block;
+  clear: both;
+  color: #282828;
+  text-decoration: none;
+  font-size: 14px;
+  font-style: italic;
+  text-align: right;
+}
+/* line 64, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .portfolioBlock .portfolioInnerBlock {
+  padding: 0 20px 0 0;
+}
+/* line 66, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .portfolioBlock .portfolioInnerBlock .thumbnail {
+  background: none;
+  border: none;
+  text-decoration: none;
+}
+/* line 70, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .portfolioBlock .portfolioInnerBlock .thumbnail .categoryName {
+  display: block;
+  clear: both;
+  color: #ffffff;
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+}
+/* line 77, D:/daglob/www/kostromalesstroy.test/css/portfolio.scss */
+body .content .portfolio .portfolioBlock .portfolioInnerBlock .thumbnail .categoryName .badge {
+  vertical-align: middle;
+}

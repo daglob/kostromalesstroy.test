@@ -13,7 +13,6 @@ body {
         height: 70px;
         background-color: #f3f3f3;
         .mainmenu {
-
           .navbar-brand {
             padding-left: 28px;
           }
@@ -58,7 +57,7 @@ body {
         }
       }
       .content {
-        margin: 0 auto;
+        margin: 0 auto 60px;
         width: 960px;
         min-height: 100%;
         font-size: 16px;
@@ -68,7 +67,7 @@ body {
         background-color: #000000;
         bottom: 0;
         height: 60px;
-        position: absolute;
+        position: fixed;
         width: 100%;
         .designGr{
 

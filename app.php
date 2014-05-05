@@ -11,7 +11,7 @@
  */
 require_once "funcs.php";
 
-checkInsertedUrl();
+$include = checkInsertedUrl();
 
 /**
  * file width menu array

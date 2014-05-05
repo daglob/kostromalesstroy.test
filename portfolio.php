@@ -6,8 +6,6 @@
  * Time: 1:41
  */
 include_once "header.php";
-
-
 ?>
 
 

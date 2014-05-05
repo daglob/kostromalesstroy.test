@@ -1,0 +1,16 @@
+/* line 1, D:/daglob/www/kostromalesstroy.test/admin/css/theme.scss */
+body {
+  margin-top: 150px;
+}
+
+/* line 5, D:/daglob/www/kostromalesstroy.test/admin/css/theme.scss */
+.content {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+/* LOGIN FORM */
+/* line 11, D:/daglob/www/kostromalesstroy.test/admin/css/theme.scss */
+#loginForm {
+  padding-top: 50px;
+}

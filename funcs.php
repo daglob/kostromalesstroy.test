@@ -56,9 +56,41 @@ function checkInsertedUrl()
 {
     if (isset($_GET['inserturl']) && $_GET['inserturl'] != '') {
         if (!is_file($_GET['inserturl'] . '.php')) {
-            header("Location: /404.php");
+//            header("Location: /404.php");
+            $include = '404.php';
         } else {
-            header("Location: /" . $_GET['inserturl'] . ".php");
+//            header("Location: /" . $_GET['inserturl'] . ".php");
+            $include = $_GET['inserturl'] . ".php";
         }
+    } else {
+        $include = 'firstpage.php';
+    }
+
+    return $include;
+}
+
+function addJS($arr = array())
+{
+    if (empty($arr)) {
+        return false;
+    }
+
+    foreach ($arr as $script) {
+        ?>
+        <script src="<?= $script ?>" type="text/javascript"></script>
+    <?
+    }
+}
+
+function addCSS($arr = array())
+{
+    if (empty($arr)) {
+        return false;
+    }
+
+    foreach ($arr as $css) {
+        ?>
+        <link href="<?= $css ?>" type="text/css" rel="stylesheet">
+    <?
     }
 }

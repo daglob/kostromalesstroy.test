@@ -1,0 +1,18 @@
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+Options +FollowSymLinks
+AddDefaultCharset windows-1251
+
+php_flag register_globals on
+php_flag date.timezone "Europe/Moscow"
+
+DirectoryIndex index.php
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([a-zA-Z\d_-]*)/?$ index.php?mod=$1 [QSA,L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([a-zA-Z\d_-]*)/([a-zA-Z\d_-]*)/?$ index.php?mod=$1&func=$2 [QSA,L]
