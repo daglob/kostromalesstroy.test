@@ -2,7 +2,7 @@
 
 session_start();
 include_once $_SERVER['DOCUMENT_ROOT']."/api/api.php";
-
+d($_SERVER);
 if (isset($_GET['out']) && $_GET['out'] == 'getoutofherenow') {
     $AUTH->logOut();
 }
