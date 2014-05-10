@@ -21,7 +21,6 @@ $defaultIP = '127.0.0.1';
 
 //define("_LOCALSERVER_", $_SERVER['SER']);
 
-
 define("_DB_HOST_", 'localhost');
 define("_DB_USER_", 'root');
 define("_DB_PASS_", 'root');
