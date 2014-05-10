@@ -45,7 +45,7 @@
       <file leaf-file-name="config.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/api/config.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="43" selection-start="395" selection-end="395" vertical-scroll-proportion="0.20625" vertical-offset="173" max-vertical-offset="939">
+            <state line="23" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="0.27708334" vertical-offset="173" max-vertical-offset="956">
               <folding />
             </state>
           </provider>
@@ -273,7 +273,11 @@
       <created>1399745396626</created>
       <updated>1399745396626</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="0.3 add X">
+      <created>1399745516836</created>
+      <updated>1399745516836</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -341,7 +345,8 @@
     <MESSAGE value="start" />
     <MESSAGE value="0.2" />
     <MESSAGE value="0.3 add gitHub" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.3 add gitHub" />
+    <MESSAGE value="0.3 add X" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.3 add X" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -607,7 +612,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/api/config.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="43" selection-start="395" selection-end="395" vertical-scroll-proportion="0.20625" vertical-offset="173" max-vertical-offset="939">
+        <state line="23" column="0" selection-start="397" selection-end="397" vertical-scroll-proportion="0.27708334" vertical-offset="173" max-vertical-offset="956">
           <folding />
         </state>
       </provider>
